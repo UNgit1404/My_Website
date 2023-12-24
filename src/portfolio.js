@@ -26,7 +26,7 @@ const greeting = {
     "A budding Engineer aspiring to make a name in my domain and do my bit to make this society a better place to live. 🚀 "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1LCEAUMTtTndASgk-obmEbwAfjcRK_AE7/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/11ZzR6CU4WGS_rUxp0yuyz5N8SJejC5P3/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
